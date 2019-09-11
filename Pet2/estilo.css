@@ -1,0 +1,62 @@
+* body {
+
+	background: #FFF;
+	font-family: 'Lato', sans-serif;
+
+}
+
+#topo {
+	background: red;
+	width: 1024px;
+	height: auto;
+	margin: 0 auto;
+}
+
+#menu {
+    width: 1024px;
+    height: 30px;
+    margin: 0 auto;
+    text-align: center;
+
+}
+
+#menu ul {
+     padding: 0;
+     margin: 0;
+     list-style: none;
+}
+
+#menu ul li {
+	display: inline;
+
+}
+
+#menu ul li a {
+    font-family: 'Lato', sans-serif;
+    text-decoration: none;
+    color: #39393A;
+    font-size: 18px;
+    padding: 10px 10px;
+    display: inline-block;
+
+}
+
+#menu ul li a:hover{
+	color: #FE5F55;
+    border-bottom: 1px solid #FE5F55;
+}
+
+#conteudo {
+    width: 1024px;
+     margin: 0 auto;
+    height: auto;
+
+   }
+
+  #rodape {
+  	background: #323232;
+  	width: 1024px;
+  	margin: 0 auto;
+  	height: 60px;
+  	color: #FFF;
+  }
